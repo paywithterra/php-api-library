@@ -1,0 +1,23 @@
+{
+    "name": "paywithterra/php-api-library",
+    "description": "PaywithTerra PHP API Library",
+    "keywords": ["paywithterra","crypto","payments"],
+    "type": "library",
+    "require": {
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {},
+    "license": "MIT",
+    "homepage": "https://paywithterra.com",
+    "authors": [
+        {
+            "name": "PaywithTerra and contributors",
+            "homepage": "https://github.com/paywithterra/php-lib/contributors"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"PaywithTerra\\": "src/"}
+    }
+}

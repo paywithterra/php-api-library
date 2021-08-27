@@ -1,6 +1,6 @@
 {
     "name": "paywithterra/php-api-library",
-    "description": "PaywithTerra PHP API Library",
+    "description": "Officially supported PHP library for using PaywithTerra APIs.",
     "keywords": ["paywithterra","crypto","payments"],
     "type": "library",
     "require": {
@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "PaywithTerra and contributors",
-            "homepage": "https://github.com/paywithterra/php-lib/contributors"
+            "homepage": "https://github.com/paywithterra/php-api-library/contributors"
         }
     ],
     "autoload": {
